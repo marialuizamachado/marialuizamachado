@@ -8,7 +8,7 @@ Meu principal objetivo é aperfeiçoar meus conhecimentos em automação, coloca
 
 Estou sempre buscando aprender, praticar e evoluir profissionalmente.
 
-## Interesses
+## Interesses 
 * Automação 
 * Desenvolvimento de Software 
 * Tecnologia
@@ -29,6 +29,6 @@ Estou sempre buscando aprender, praticar e evoluir profissionalmente.
 
 ### 🎓 Certificações
 
-![Certificado GitHub Foundations](certificado.png)
+![Certificado GitHub Foundations](certificado.jpg)
 
 * [Acessar conquistas no Microsoft Learn](https://learn.microsoft.com/pt-br/users/marialuizamachado-4717/achievements)
