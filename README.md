@@ -1,4 +1,4 @@
-# Olá, eu sou a Maria Luiza! 
+# Olá, eu sou a Maria Luiza 🪩! 
 
 Estudante de Engenharia de Software.
 
